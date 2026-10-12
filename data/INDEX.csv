@@ -79,3 +79,4 @@ date,records,sources,top_event_types,notes
 2026-10-07,54,38,"market_move, macro, analyst_rating","Futures down on yields+oil; FOMC Sep minutes 2pm ET; 30Y hit 2002 high 5.70%; Brent $101; PTC/Schneider $22.6B; MRVL Investor Day; Levi Q3 AH; Anthropic IPO Oct 14"
 2026-10-08,46,41,"earnings, market_move, macro","PepsiCo beat on EPS+revenue but cut FY guidance; FOMC Sep minutes confirm hike to 3.75-4%; oil +4% and 10Y yield ~5.30% weigh on stocks; Samsung record Q3 KRW 73T; Anthropic IPO slips to November $2T"
 2026-10-09,46,28,"market_move, m&a, analyst_rating","OpenAI $50B revenue correction triggered Nasdaq worst day in 7wks; DAL Q3 miss on fuel costs; 30Y yield 5.63% near 2002 high; BTC $82K; oil fell on Trump Iran pre-midterm comment"
+2026-10-12,49,38,"market_move, macro, earnings","Columbus Day thin trading; bank/UNH/JNJ earnings week preview; oil -1.5% on Trump Russia-Ukraine ceasefire; BTC back above $84K; Sep CPI due Oct 14"
