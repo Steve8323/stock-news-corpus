@@ -95,3 +95,4 @@ date,records,sources,top_event_types,notes
 2026-10-29,45,27,"earnings, market_move, macro","GOOGL -10% on Q3 FCF miss; MSFT +4% beat; Fed held 3.75-4% 10-2 vote; Brent $114-115 Hormuz; BTC $80K; Samsung record Q3 107T won; ECB hold expected; Amazon reports after close"
 2026-10-30,53,31,"earnings, macro, analyst_rating","Big Tech capex shock: AMZN/GOOGL/INTC miss; MSFT beat; FOMC hold pre-midterms; Binance $6.3B hack; Brent $116 4th monthly gain; BTC $78K"
 2026-11-02,40,34,"earnings, market_move, macro","Futures rebound after worst Wall Street week in months; Brent ~$111 on Iran-Qatar Hormuz talks; AAPL/PLTR earnings after close; midterms Nov 3; Binance $6.3B hack; Anthropic IPO Nov 16 target"
+2026-11-03,42,24,"earnings, analyst_rating, market_move","US midterm election day; Apple/Palantir Q4/Q3 beat but fell; Marvell $115B Lumentum deal; oil -8% on Iran diplomacy; Inovio +224% FDA; Binance $6.3B hack"
